@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "notebook.formatOnSave.enabled": true,
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "dart.flutterGenerateLocalizationsOnSave": "all",
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "errorLens.onSave": true
+}
